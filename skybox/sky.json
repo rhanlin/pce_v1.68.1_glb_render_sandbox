@@ -1,0 +1,1 @@
+{"name":"New Cubemap","textures":["./sky_posx.png","./sky_negx.png","./sky_posy.png","./sky_negy.png","./sky_posz.png","./sky_negz.png"],"minFilter":5,"magFilter":1,"anisotropy":1,"rgbm":true,"prefiltered":"sky.dds"}
